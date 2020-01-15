@@ -1,0 +1,32 @@
+footer-social{
+  padding: 20px;
+  font-size: 30px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+facebook {
+  background: #006400;
+  color: DarkGreen;
+}
+instagram {
+  background: #8FBC8F;
+  color: DarkSeaGreen;
+twitter {
+  background: #00008;
+  color: DarkBlue;
+}
+github {
+  background: #696969;
+  color: DimGrey;
+}
+snapchat {
+  background: #228B22;
+  color: ForestGreen;
+}
+linkedIn {
+  background: #808080;
+  color: gray;
+}
